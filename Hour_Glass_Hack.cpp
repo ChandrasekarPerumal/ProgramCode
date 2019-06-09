@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int arr_rows,arr_columns;
+    int arr_rows=6,arr_columns=6;
    /* 
     cout<<"Rows and columns\n";
     cin>>arr_rows>>arr_columns;       //User Input.
